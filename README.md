@@ -1,5 +1,5 @@
 # Weather-Forecast
-To build a weather dashboard application
+To build a weather dashboard application so that it can be used to plan a trip by entering city name, date, current and future conditions.
 
 ## Table of Contents
 - [Installation](#installation)
