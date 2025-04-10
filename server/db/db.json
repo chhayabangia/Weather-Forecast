@@ -1,1 +1,32 @@
-[]
+[
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "name": "Toronto",
+      "id": "3"
+    },
+    {
+      "name": "Halifax",
+      "id": "4"
+    },
+    {
+      "name": "Vancouver",
+      "id": "5"
+    },
+    {
+      "name": "Alberta",
+      "id": "6"
+    },
+    {
+      "name": "NewFoundLand",
+      "id": "7"
+    },
+    {
+      "name": "Ottawa",
+      "id": "8"
+    }
+  ]
